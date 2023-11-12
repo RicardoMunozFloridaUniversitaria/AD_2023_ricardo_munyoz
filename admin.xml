@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<administrador>
+    <usuario>admin</usuario>
+    <contrasena>admin</contrasena>
+    <url>jdbc:mysql://localhost/books</url>
+</administrador>
